@@ -1,8 +1,8 @@
 # 🖥️ Community Backend
 
-커뮤니티 구축을 위한 템플릿 플랫폼 Backend
+개발팀 운영을 위한 커뮤니티 플랫폼
 
-Frontend Repository: https://github.com/Hongik-Univ-DSC-Re-New/DSC-Frontend
+Frontend Repository: https://github.com/H-Dev-Team/Community-Frontend
 
 ---
 
