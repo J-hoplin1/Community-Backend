@@ -1,6 +1,6 @@
-# 🖥️ Hongik University Department of Software and Communication Backoffice API
+# 🖥️ Community Backend
 
-홍익대학교 소프트웨어 융합학과 홈페이지 Backend
+커뮤니티 구축을 위한 템플릿 플랫폼 Backend
 
 Frontend Repository: https://github.com/Hongik-Univ-DSC-Re-New/DSC-Frontend
 
@@ -120,6 +120,6 @@ yarn test:unit
 
 ---
 
-Contribution are always welcome. Please contact owner of this repository when you want to contribute.(If possible, it would be nice to be a DSC Student)
+Contribution are always welcome.
 
 - Contact: jhoplin7259@gmail.com
