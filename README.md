@@ -68,7 +68,15 @@ yarn install
 npm install
 ```
 
-2. Initialize Prisma ORM Schema.
+2. Run Database & Redis Compose project
+
+```
+cd docker
+
+docker compose up -d
+```
+
+3. Initialize Prisma ORM Schema.
 
 ```
 // yarn
@@ -76,14 +84,6 @@ yarn migrate
 
 // npm
 npm run migrate
-```
-
-3. Run Database & Redis Compose project
-
-```
-cd docker
-
-docker compose up -d
 ```
 
 4. Run API Application
